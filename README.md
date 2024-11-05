@@ -43,7 +43,7 @@ Os dados utiliazado para os programas implementados estão disponíveis “[nest
 Faça a clonagem do repositorio 
   
 ```sh
-git clone https://github.com/bd1-icomp-ufam/trabalho-pr-tico-2-bancos-de-dados-2024-2-tp1-isabella-lucas_nascimento/tree/main/src
+git clone https://github.com/bd1-icomp-ufam/trabalho-pr-tico-2-bancos-de-dados-2024-2-tp1-isabella-lucas_nascimento
 ```
 
 Após baixar os arquivos disponibilizados no github, entre no diretorio que foram baixados e execute o script upload.cpp.
