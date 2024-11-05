@@ -59,7 +59,7 @@ Compile o execultavel:
 O script solicitará o local do arquivo de dados
 ex: /home/NomeUsuario/Downloads/artigo.csv
 
-Espere a criação das tabelas e a inserção dos registros e criação dos indices, após terminarem, inicialize os script findrex, seek1 e seek2 para realizar as buscas.
+Espere a criação das tabelas e a inserção dos registros e criação dos indices, após terminarem, inicialize os script findrec, seek1 e seek2 para realizar as buscas.
 ```sh
 g++ findrec.cpp -o findrec
 g++ seek1.cpp -o seek1
