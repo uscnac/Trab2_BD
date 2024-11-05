@@ -67,19 +67,19 @@ g++ seek2.cpp -o seek2
 ```
 Compile os execultaveis desses arquivos de acordo com o tipo de busca:
 
-findrec - busca no arquivo de dado <ID>
+findrec - busca no arquivo de dado (ID)
 
 ```sh
 ./findrec
 ```
 
-Seek1 - Busca pelo arquivo de indice primário <ID>
+Seek1 - Busca pelo arquivo de indice primário (ID)
 
 ```sh
 ./seek1 
 ```
 
-Seek2 - Busca pelo arquivo de indice secundário <TItulo>
+Seek2 - Busca pelo arquivo de indice secundário (TItulo)
 ```sh
 ./seek2
 ```
